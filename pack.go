@@ -1,4 +1,4 @@
-package go-video-api
+package vidoza
 
 func Test(){
 }
