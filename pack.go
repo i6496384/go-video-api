@@ -1,4 +1,4 @@
 package vidoza
 
-func Test(){
+func Test() {
 }
