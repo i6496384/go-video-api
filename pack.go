@@ -1,5 +1,6 @@
 package vidoza
 
-// Vers 3
+// Vers 4
 func Test() {
+  print("TEST RELISE 4")
 }
